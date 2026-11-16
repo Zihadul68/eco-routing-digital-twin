@@ -1,0 +1,4 @@
+# Core simulation requires Python 3.9+ standard library only.
+# Optional dependencies for plots and analysis:
+matplotlib>=3.8.0
+pandas>=2.1.0
